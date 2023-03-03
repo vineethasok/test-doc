@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/docsX/:path*", "destination": "/:path*" }
+  ]
+}
